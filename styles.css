@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+.frame-12 {
+    background-color: var(--white);
+    border: 1px none;
+    height: 11384px;
+    overflow: hidden;
+    position: relative;
+    width: 1920px;
+    }
+
+    .hidden,
+    .hidden * {
+        pointer-events: none;
+        visibility: hidden;
+    }
+
+.overlap-group19 {
+    height: 649px;
+    left: 744px;
+    position: absolute;
+    top: 8213px;
+    width: 453px;
+  }
+
+.frame-12 .enhancing-truecaller-10 { 
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 433px;
+    width: 453px;
+}
+
+.rectangle-1
+{
+    background-color: var (--alto);
+    height: 434px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 434px;
+}
+
+.frame-12 .a-case-study-on-simp-13 { 
+    letter-spacing: 0;
+    Line-height: normal;
+    position: absolute;
+    width: 453px:
+}
+
+.a-case-study-on-simp-6 {
+left: 744px;
+top: 8862px;
+}
